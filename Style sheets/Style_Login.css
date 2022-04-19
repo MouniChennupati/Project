@@ -1,0 +1,56 @@
+.background_img 
+{
+      background-image: url(/Images/LittleH.jpg);
+      background-size: cover;
+      height: 100vh;
+      width: 100vw;
+}
+
+header{
+    line-height: 3cm;
+}
+
+body {
+    font-size: 18px;
+    text-align: center;
+}
+
+h2 {
+    text-transform: capitalize;
+    color: rgb(16, 133, 123);
+}
+
+input {
+    margin: 10px;
+    margin-left: 0;
+    padding: 5px;
+    line-height: 1cm;
+    width: 6cm;
+}
+input[type="Submit"]{
+    background-color: rgb(3, 6, 177);
+    color: white;
+    line-height: 0.5cm;
+    width: 2cm;
+}
+label{
+    color:rgb(8, 22, 7);
+}
+
+nav{
+    text-decoration:solid;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 2cm;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+
+h1{
+    text-align: center;
+    display: inline-block;
+    font-family:'Times New Roman', Times, serif;
+    margin: auto;
+    color:black;
+    font-size: 3em;
+}
